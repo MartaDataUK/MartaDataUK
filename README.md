@@ -1,11 +1,12 @@
 # Hi, I'm Marta! 👋 
-### Senior Analytics Engineer & Data Specialist | 7+ Years Experience 🇬🇧 🏴󠁧󠁢󠁳
+### Senior Analytics Engineer & Data Architect | 7+ Years Experience 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
-I am a mathematically grounded data professional specialising in bridging the gap between high-performance cloud data infrastructure and full-funnel business intelligence. I architect resilient ELT pipelines, design scalable data warehouse models, and build predictive analytical frameworks that transform raw operational noise into high-fidelity data products.
+I am a mathematically grounded data professional specializing in bridging the gap between high-performance cloud data infrastructure and full-funnel business intelligence. I architect resilient ELT pipelines, design scalable data warehouse models, and build predictive analytical frameworks that transform raw operational noise into high-fidelity data products.
 
 > [!NOTE]
-> [cite_start]**Market Status:** Available on short notice for Remote UK or Hybrid (Edinburgh / Glasgow / Central Belt) contract or permanent roles.
--  Workflow Velocity: Deeply proficient in GenAI-assisted workflows to accelerate pipeline documentation, script refactoring, and comprehensive unit-test coverage[cite: 13].
+> **Market Status:** Available on short notice for Remote UK or Hybrid (Edinburgh / Glasgow / Central Belt) contract or permanent roles.
+
+- ⚙️ **Workflow Velocity:** Deeply proficient in GenAI-assisted workflows (using advanced LLMs and specialized tools) to accelerate pipeline documentation, script refactoring, and comprehensive unit-test coverage.
 
 ---
 
@@ -34,7 +35,7 @@ I am a mathematically grounded data professional specialising in bridging the ga
 
 ###  Featured Production Portfolio
 
-* 🛠️ **[Job Tracker Pipeline](https://github.com/MartaDataUK/job_tracker)**
+*  **[Job Tracker Pipeline](https://github.com/MartaDataUK/job_tracker)**
   * *What it is:* An automated, production-grade Python ETL pipeline and orchestration supervisor designed to extract, deduplicate, score, and track localized UK job listings into a clean Excel analytics interface.
   * *Under the Hood:* Features regex-based keyword matrix filtering, state preservation logic to prevent duplicate processing, and automated job logging protocols.
   * *Tech Stack:* Python, Pandas, OpenPyXL, Regular Expressions, Git Automation.
