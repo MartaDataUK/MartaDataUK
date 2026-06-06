@@ -3,8 +3,9 @@
 
 I am a mathematically grounded data professional specialising in bridging the gap between high-performance cloud data infrastructure and full-funnel business intelligence. I architect resilient ELT pipelines, design scalable data warehouse models, and build predictive analytical frameworks that transform raw operational noise into high-fidelity data products.
 
--  **Market Status:** Available on short notice for Remote UK or Hybrid (Edinburgh / Glasgow / Central Belt) contract or permanent roles.
--  **Workflow Velocity:** Deeply proficient in GenAI-assisted workflows (using advanced LLMs and specialised tools) to accelerate pipeline documentation, script refactoring, and comprehensive unit-test coverage.
+> [!NOTE]
+> [cite_start]**Market Status:** Available on short notice for Remote UK or Hybrid (Edinburgh / Glasgow / Central Belt) contract or permanent roles.
+-  Workflow Velocity: Deeply proficient in GenAI-assisted workflows to accelerate pipeline documentation, script refactoring, and comprehensive unit-test coverage[cite: 13].
 
 ---
 
@@ -18,15 +19,16 @@ I am a mathematically grounded data professional specialising in bridging the ga
 
 ---
 
-###  Modern Data Stack Toolkit
+### 🧰 Modern Data Stack Toolkit
 
-| Layer | Technologies & Methodologies |
-| :--- | :--- |
-| **Languages** | Python (Pandas, NumPy, OpenPyXL), R, Advanced Analytical SQL (CTEs, Window Functions) |
-| **Data Platforms & Clouds** | Google Cloud Platform (GCP), BigQuery, Databricks, Azure |
-| **Transformation & Ops** | dbt (Data Build Tool), Production ETL/ELT, Git/GitHub, Git Workflows, CI/CD |
-| **Analytics & Visualisation** | Power BI, Looker, MicroStrategy, Cohort Analytics, A/B Testing, Time-Series Forecasting |
-| **Foundational Science** | Bayesian Modelling, Statistical Analysis, Econometrics (BSc Mathematics & Statistics) |
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF6B6B?style=for-the-badge&logo=dbt&logoColor=white)
+![GCP](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/bigquery-669DF2?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/databricks-FF3600?style=for-the-badge&logo=databricks&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 ---
 
